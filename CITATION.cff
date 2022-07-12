@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata.
+Please also cite:
+'Optimizing dynamical function for speed' by R. A. Bone and J. R. Green
+'Ensembles of stochastic paths constrained by time' by R. A. Bone and J. R. Green
+'Stochastic paths controlling speed and dissipation' by R. A. Bone, D. J. Sharpe, D. J. Wales, and J. R. Green"
+title: Contracted Paths
+authors:
+- family-names: Bone
+  given-names: Rebecca
+- family-names: Green
+  given-names: Jason
+  orcid: "0000-0003-2572-2838"
+version: 1.0.0
+url: "https://github.com/jrgreen/contracted-paths"
+doi: 
